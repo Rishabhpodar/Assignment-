@@ -1,0 +1,8 @@
+Steps to create a github repositry:-
+Create a new folder for your project.
+Open the folder in Git BASH.
+Issue the git init command to create the new Git repo.
+Note the creation of the hidden .git folder in the project.
+Add files and folders to your project.
+Routinely stage files and create commits.
+The aforementioned steps will set up your project and lead to your first commit. However, it is specifically the git init command that creates the Git repository.
